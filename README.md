@@ -1,4 +1,1 @@
-    👋 Hi, I’m @spoddub
-    👀 Python
-    🌱 Looking for a job 
-    📫 spoddub98@gmail.com
+[![LeetCode Stats](https://leetcard.jacoblin.cool/spoddub?theme=light,unicorn&font=JetBrains%20Mono&border=0&radius=12&ext=heatmap)](https://leetcode.com/spoddub)
