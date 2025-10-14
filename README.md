@@ -1,4 +1,4 @@
-:man_technologist: Backend developer backed by a strong foundation in retail and B2B service, skilled in understanding user needs, solving problems, and delivering practical solutions.
+## :man_technologist: Backend developer backed by a strong foundation in retail and B2B service, skilled in understanding user needs, solving problems, and delivering practical solutions.
 
 ---
 
