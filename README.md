@@ -1,3 +1,3 @@
-## Backend Engineer | Passionate about testing & readability | Python · Django · Flask · Ruby on Rails
+## Backend developer backed by a strong foundation in retail and B2B service, skilled in understanding user needs, solving problems, and delivering practical solutions.
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/spoddub?theme=light,unicorn&font=JetBrains%20Mono&border=0&radius=12&ext=heatmap)](https://leetcode.com/spoddub)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/spoddub?theme=dark&border=0&radius=12)](https://leetcode.com/spoddub)
