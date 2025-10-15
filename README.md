@@ -25,7 +25,7 @@
 
 ---
 
-## Leetcode
+## LeetCode
 
 <div align="center">
 
