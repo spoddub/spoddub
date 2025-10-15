@@ -25,6 +25,8 @@
 
 ---
 
+## Leetcode
+
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/spoddub?theme=dark&border=0&radius=12)
